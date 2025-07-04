@@ -1,4 +1,4 @@
-## task 2 : Stopwatch Web Application
+## task 02 : Stopwatch Web Application
 Project Description
 A responsive and interactive stopwatch web application with start, pause, reset, and lap time recording functionality. Built with HTML, CSS, and JavaScript for precise time measurement.
 
@@ -17,7 +17,7 @@ HTML5
 CSS3 (Flexbox, animations)
 
 JavaScript (DOM manipulation, interval handling)
-Usage
+## Usage
 Click Start to begin the stopwatch.
 
 Click Pause to halt the timer.
